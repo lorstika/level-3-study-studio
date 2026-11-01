@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="900" height="300" preserveAspectRatio="xMinYMin meet" viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="900" height="300"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-300)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="900" height="300" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="28" y="270" style="font-family: Helvetica; font-size: 20px;fill: rgb(9%,23%,23%); stroke:none;" transform="translate(0,540) scale(1,-1)">Equal positive charges: fields cancel at the midpoint</text>
+			<circle cx="120" cy="140" r="32" style="stroke: rgb(9%,23%,23%); stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,93%,90%); fill-rule: evenodd;"/>
+			<text x="104" y="132" style="font-family: Helvetica; font-size: 22px;fill: rgb(9%,23%,23%); stroke:none;" transform="translate(0,264) scale(1,-1)">+q</text>
+			<circle cx="780" cy="140" r="32" style="stroke: rgb(9%,23%,23%); stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,93%,90%); fill-rule: evenodd;"/>
+			<text x="764" y="132" style="font-family: Helvetica; font-size: 22px;fill: rgb(9%,23%,23%); stroke:none;" transform="translate(0,264) scale(1,-1)">+q</text>
+			<circle cx="450" cy="140" r="5" style="stroke: rgb(9%,23%,23%); stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,23%,23%); fill-rule: evenodd;"/>
+			<path d="M 450,165 L 600,165 Z" style="stroke: rgb(9%,23%,23%); stroke-linecap: butt; stroke-width: 3;"/>
+			<polygon points="600 165, 588.9473 169.673, 588.9473 160.327" style="stroke: rgb(9%,23%,23%); stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,23%,23%); fill-rule: evenodd;"/>
+			<path d="M 450,115 L 300,115 Z" style="stroke: rgb(57%,26%,13%); stroke-linecap: butt; stroke-width: 3;"/>
+			<polygon points="300 115, 311.0527 110.327, 311.0527 119.673" style="stroke: rgb(57%,26%,13%); stroke-linecap: butt; stroke-width: 1; fill: rgb(57%,26%,13%); fill-rule: evenodd;"/>
+			<text x="470" y="192" style="font-family: Helvetica; font-size: 16px;fill: rgb(9%,23%,23%); stroke:none;" transform="translate(0,384) scale(1,-1)">Field from the left charge</text>
+			<text x="226" y="78" style="font-family: Helvetica; font-size: 16px;fill: rgb(57%,26%,13%); stroke:none;" transform="translate(0,156) scale(1,-1)">Field from the right charge</text>
+			<text x="372" y="35" style="font-family: Helvetica; font-size: 16px;fill: rgb(9%,23%,23%); stroke:none;" transform="translate(0,70) scale(1,-1)">Equal size, opposite directions</text>
+		</g>
+	</g>
+</svg>

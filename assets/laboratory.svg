@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="900" height="300" preserveAspectRatio="xMinYMin meet" viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="900" height="300"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-300)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="900" height="300" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="28" y="270" style="font-family: Helvetica; font-size: 20px;fill: rgb(9%,23%,23%); stroke:none;" transform="translate(0,540) scale(1,-1)">Pendulum: choose axes that give a straight line</text>
+			<path d="M 90,55 L 485,55 Z" style="stroke: rgb(9%,23%,23%); stroke-linecap: butt; stroke-width: 3;"/>
+			<polygon points="485 55, 473.9473 59.67302, 473.9473 50.32698" style="stroke: rgb(9%,23%,23%); stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,23%,23%); fill-rule: evenodd;"/>
+			<path d="M 90,55 L 90,245 Z" style="stroke: rgb(9%,23%,23%); stroke-linecap: butt; stroke-width: 3;"/>
+			<polygon points="90 245, 85.32698 233.9473, 94.67302 233.9473" style="stroke: rgb(9%,23%,23%); stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,23%,23%); fill-rule: evenodd;"/>
+			<text x="480" y="24" style="font-family: Helvetica; font-size: 16px;fill: rgb(9%,23%,23%); stroke:none;" transform="translate(0,48) scale(1,-1)">L (m)</text>
+			<text x="20" y="242" style="font-family: Helvetica; font-size: 16px;fill: rgb(9%,23%,23%); stroke:none;" transform="translate(0,484) scale(1,-1)">T² (s²)</text>
+			<path d="M 90,55 L 450,220 Z" style="stroke: rgb(57%,26%,13%); stroke-linecap: butt; stroke-width: 3;"/>
+			<circle cx="180" cy="96" r="4" style="stroke: rgb(9%,23%,23%); stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,23%,23%); fill-rule: evenodd;"/>
+			<circle cx="270" cy="138" r="4" style="stroke: rgb(9%,23%,23%); stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,23%,23%); fill-rule: evenodd;"/>
+			<circle cx="360" cy="179" r="4" style="stroke: rgb(9%,23%,23%); stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,23%,23%); fill-rule: evenodd;"/>
+			<circle cx="450" cy="220" r="4" style="stroke: rgb(9%,23%,23%); stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,23%,23%); fill-rule: evenodd;"/>
+			<text x="550" y="192" style="font-family: Helvetica; font-size: 16px;fill: rgb(9%,23%,23%); stroke:none;" transform="translate(0,384) scale(1,-1)">Slope = change in T² / change in L</text>
+			<text x="550" y="147" style="font-family: Helvetica; font-size: 16px;fill: rgb(9%,23%,23%); stroke:none;" transform="translate(0,294) scale(1,-1)">Slope = 4 pi² / g</text>
+			<text x="550" y="102" style="font-family: Helvetica; font-size: 16px;fill: rgb(9%,23%,23%); stroke:none;" transform="translate(0,204) scale(1,-1)">So g = 4 pi² / slope</text>
+			<text x="550" y="57" style="font-family: Helvetica; font-size: 16px;fill: rgb(9%,23%,23%); stroke:none;" transform="translate(0,114) scale(1,-1)">Use small-amplitude oscillations.</text>
+		</g>
+	</g>
+</svg>

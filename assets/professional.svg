@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="900" height="300" preserveAspectRatio="xMinYMin meet" viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="900" height="300"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-300)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="900" height="300" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="28" y="270" style="font-family: Helvetica; font-size: 20px;fill: rgb(9%,23%,23%); stroke:none;" transform="translate(0,540) scale(1,-1)">A reflective portfolio connects evidence to improvement</text>
+			<rect x="28.0" y="92" width="268.0" height="125" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,93%,90%); fill-rule: evenodd;"/>
+			<text x="40.0" y="180" style="font-family: Helvetica; font-size: 17px;fill: rgb(9%,23%,23%); stroke:none;" transform="translate(0,360) scale(1,-1)">Evidence</text>
+			<text x="40.0" y="140" style="font-family: Helvetica; font-size: 13px;fill: rgb(9%,23%,23%); stroke:none;" transform="translate(0,280) scale(1,-1)">Student work sample</text>
+			<path d="M 298,154 L 314,154 Z" style="stroke: rgb(57%,26%,13%); stroke-linecap: butt; stroke-width: 3;"/>
+			<polygon points="314 154, 302.9473 158.673, 302.9473 149.327" style="stroke: rgb(57%,26%,13%); stroke-linecap: butt; stroke-width: 1; fill: rgb(57%,26%,13%); fill-rule: evenodd;"/>
+			<rect x="316.0" y="92" width="268.0" height="125" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,93%,90%); fill-rule: evenodd;"/>
+			<text x="328.0" y="180" style="font-family: Helvetica; font-size: 17px;fill: rgb(9%,23%,23%); stroke:none;" transform="translate(0,360) scale(1,-1)">Reflection</text>
+			<text x="328.0" y="140" style="font-family: Helvetica; font-size: 13px;fill: rgb(9%,23%,23%); stroke:none;" transform="translate(0,280) scale(1,-1)">What changed? Why?</text>
+			<path d="M 586,154 L 602,154 Z" style="stroke: rgb(57%,26%,13%); stroke-linecap: butt; stroke-width: 3;"/>
+			<polygon points="602 154, 590.9473 158.673, 590.9473 149.327" style="stroke: rgb(57%,26%,13%); stroke-linecap: butt; stroke-width: 1; fill: rgb(57%,26%,13%); fill-rule: evenodd;"/>
+			<rect x="604.0" y="92" width="268.0" height="125" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,93%,90%); fill-rule: evenodd;"/>
+			<text x="616.0" y="180" style="font-family: Helvetica; font-size: 17px;fill: rgb(9%,23%,23%); stroke:none;" transform="translate(0,360) scale(1,-1)">Next action</text>
+			<text x="616.0" y="140" style="font-family: Helvetica; font-size: 13px;fill: rgb(9%,23%,23%); stroke:none;" transform="translate(0,280) scale(1,-1)">Try a targeted strategy</text>
+			<text x="28" y="45" style="font-family: Helvetica; font-size: 15px;fill: rgb(9%,23%,23%); stroke:none;" transform="translate(0,90) scale(1,-1)">Choose relevant evidence, explain what it shows, and connect it to a learning goal.</text>
+		</g>
+	</g>
+</svg>
