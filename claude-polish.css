@@ -1,0 +1,92 @@
+/* claude-polish.css — Bench Sheet refinement layer
+   Load AFTER redesign.css. Existing selectors only; no JS, data, scoring or storage changes.
+   Sections: 1 browser surfaces · 2 home hierarchy · 3 subject plates · 4 lesson rhythm
+             5 semantic colour fix · 6 phone reading · 7 phone navigation */
+
+/* 1 ─ Browser surfaces & line breaking */
+::selection{background:#d5e1f4;color:var(--ink)}
+textarea,input[type=search],input[type=text],input[type=number]{caret-color:var(--blue)}
+html{scrollbar-color:#9aa3b0 transparent}
+h1,h2,h3,.quiz-question{text-wrap:balance}
+.learning-stage p,.learning-stage li,.objectives li,.watch p,.intuition p,.feedback p,.checkpoint-feedback p{text-wrap:pretty}
+table,.score-value,.metric strong,.status-text,.outline-number,#topCount,.plate-top>span,.step-status{font-variant-numeric:tabular-nums}
+
+/* 2 ─ Home: one clear primary action, quieter secondary, no eyebrow kickers */
+.page-heading .label,.resume-card .label,.mistakes-card .label,.practice-heading>.label{display:none}
+.page-heading{margin-bottom:32px}
+.page-heading h1{font-size:clamp(30px,1.6vw + 20px,44px);line-height:1.08;letter-spacing:-.03em;margin:0}
+.practice-heading h1{font-size:clamp(30px,1.6vw + 20px,40px);line-height:1.1;letter-spacing:-.03em}
+.resume-grid{gap:20px;margin-bottom:12px}
+.resume-card{border:1.5px solid var(--ink);padding:26px 28px}           /* primary: framed in ink, like a rule block */
+.resume-card h2{font-size:26px;margin:0 0 8px;line-height:1.2}
+.resume-card p:not(.label){font-size:15px}
+.mistakes-card{border:1px solid var(--line);padding:24px 26px}          /* secondary: no coloured stripe */
+.mistakes-card h2{font-size:19px;margin:0 0 8px}
+.mistakes-card:not(:has(.mistake-links)){background:transparent;border-style:dashed}  /* empty state reads as an open slot */
+.mistakes-card:has(.mistake-links){border-color:#e2b8a2}
+.section-heading{margin:52px 0 18px;align-items:baseline}
+.section-heading:has(+ .subject-grid)>span{display:none}               /* "01–08 / open any subject" adds no information */
+
+/* 3 ─ Subject plates: framed subject code replaces illegible figure thumbnails
+       (full figures stay in lessons and on PDF covers, where labels are readable) */
+.plate-figure{display:none}
+.subject-plate{min-height:0;padding:18px 18px 16px;transition:border-color .15s ease-out,box-shadow .15s ease-out}
+.plate-top{align-items:flex-start}
+.plate-top strong{display:grid;place-items:center;width:64px;height:64px;border:1.5px solid var(--ink);font:400 24px/1 var(--mono);color:var(--ink);letter-spacing:-.02em;flex-shrink:0}
+.plate-top>span{padding-top:2px}
+.subject-plate h3{font-size:19px;line-height:1.25;margin:22px 0 0}
+.plate-progress{padding-top:14px}
+.subject-plate:hover .plate-top strong,.subject-plate:focus-visible .plate-top strong{border-color:var(--blue);color:var(--blue)}
+.subject-plate:focus-visible{border-color:var(--blue)}
+
+/* 4 ─ Lesson rhythm: each stage opens on an ink rule; more space above a stage than inside it */
+.lesson-header h1{font-size:clamp(28px,1.4vw + 20px,38px);line-height:1.12;letter-spacing:-.03em}
+.lesson-stages{font-size:14px;gap:0 20px}
+.lesson-stages a{display:inline-flex;align-items:center;min-height:44px}
+.lesson-stages a:hover{color:var(--blue)}
+.learning-stage{border-bottom:0;padding:0 0 8px;margin:0 0 48px}
+.stage-title{border-top:1.5px solid var(--ink);padding-top:16px;margin-bottom:22px}
+.lesson-completion{margin-top:8px}
+
+/* 5 ─ Colour meaning: blue = things you do; theory is graphite.
+       "Make it intuitive" becomes a ruled lead statement, not a blue callout */
+.intuition{background:transparent;border-left:0;border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:18px 0;margin:26px 0}
+.intuition>.label{color:var(--muted)}
+.intuition p:not(.label){font-size:19px;line-height:1.6;max-width:60ch}
+.example-context{border-left-width:1px}
+
+/* 6 ─ Phone reading */
+@media(max-width:680px){
+ .page-heading h1{font-size:30px}
+ .resume-card,.mistakes-card{padding:20px 18px}
+ .resume-card h2{font-size:22px}
+ .breadcrumbs button{min-height:44px}
+ .learning-stage{margin-bottom:40px}
+ .stage-title{padding-top:14px;margin-bottom:18px}
+ .intuition p:not(.label){font-size:18px}
+ .explorer svg text{font-size:19px}                                     /* ≈12px on screen at 360px wide */
+ .course-figure{margin-left:-16px;margin-right:-16px;border-left:0;border-right:0;padding:12px 8px}  /* full bleed: ~20% larger labels */
+ .course-figure figcaption{padding-left:8px;padding-right:8px}
+}
+
+/* 7 ─ Phone navigation: compact header, tabs at thumb reach */
+@media(max-width:760px){
+ .topbar{padding:12px 16px;gap:10px}
+ .wordmark{font-size:16px}
+ .logo-box{width:36px;height:36px;font-size:17px}
+ .topnav{position:fixed;left:0;right:0;bottom:0;z-index:30;width:auto;gap:0;padding:0 8px env(safe-area-inset-bottom);background:var(--paper);border-top:1.5px solid var(--ink)}
+ .topnav button{flex:1;min-height:56px;border-radius:0;font-size:14px;background:transparent}
+ .topnav button.active{background:transparent;color:var(--blue);font-weight:700;box-shadow:inset 0 3px 0 var(--blue)}
+ body{padding-bottom:calc(58px + env(safe-area-inset-bottom))}
+ body:has(textarea:focus,input:is([type=search],[type=text],[type=number]):focus) .topnav{display:none}  /* keep the keyboard area clear */
+
+ .subject-plate{grid-template-columns:56px minmax(0,1fr);gap:2px 16px;min-height:0;padding:14px 16px}
+ .plate-top{display:contents}
+ .plate-top strong{grid-column:1;grid-row:1/4;align-self:center;width:56px;height:56px;font-size:20px}
+ .plate-top>span{grid-column:2;grid-row:1;padding-top:0}
+ .subject-plate h3{grid-column:2;grid-row:2;margin:0;font-size:19px}
+ .plate-progress{grid-column:2;grid-row:3;padding-top:4px}
+}
+@media print{.topnav{display:none!important}body{padding-bottom:0}}
+@media(max-width:380px){.course-figure{margin-left:-12px;margin-right:-12px}}
+

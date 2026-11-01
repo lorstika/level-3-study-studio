@@ -24,5 +24,5 @@ function mathText(value) {
  return html + mathEscape(text.slice(end));
 }
 function renderRule(tex) {
- return '<div class="formula-math">' + typeset(tex, true) + '</div>';
+ return String(tex ?? '').split(/,?\\qquad\s*|,?\\quad\s*/).filter(Boolean).map(part => '<div class="formula-math">' + typeset(part, true) + '</div>').join('');
 }
