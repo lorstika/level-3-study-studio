@@ -11,7 +11,6 @@
 	<g id="group" transform="scale(1,-1) translate(0,-340)" style="clip-path: url(#clip)">
 		<g transform="">
 			<rect x="0" y="0" width="720" height="340" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
-			<text x="24" y="314" style="font-family: 'Atkinson Hyperlegible Next', sans-serif; font-weight: 400; font-size: 14px;fill: rgb(41%,44%,50%); stroke:none;" transform="translate(0,628) scale(1,-1)">FIG. 03 / OPTICS</text>
 			<text x="24" y="282" style="font-family: 'Atkinson Hyperlegible Next', sans-serif; font-weight: 700; font-size: 21px;fill: rgb(8%,9%,11%); stroke:none;" transform="translate(0,564) scale(1,-1)">A ray bends toward the normal in glass</text>
 			<path d="M 24,264 L 696,264 Z" style="stroke: rgb(8%,9%,11%); stroke-linecap: butt; stroke-width: 1.25;"/>
 			<rect x="24" y="66" width="395" height="91" style="stroke: rgb(8%,9%,11%); stroke-linecap: butt; stroke-width: 1.25; fill: rgb(94%,94%,95%); fill-rule: evenodd;"/>
@@ -19,12 +18,12 @@
 			<path d="M 234,70 L 234,244 Z" style="stroke: rgb(41%,44%,50%); stroke-linecap: butt; stroke-width: 1.25; stroke-dasharray: 5, 5;"/>
 			<path d="M 105,232 L 234,157 Z" style="stroke: rgb(8%,9%,11%); stroke-linecap: butt; stroke-width: 2.25;"/>
 			<polygon points="234 157, 228.5952 164.1964, 225.0721 158.1366" style="stroke: rgb(8%,9%,11%); stroke-linecap: butt; stroke-width: 0.5; fill: rgb(8%,9%,11%); fill-rule: evenodd;"/>
-			<path d="M 234,157 L 294.104076,72 Z" style="stroke: rgb(72%,25%,5%); stroke-linecap: butt; stroke-width: 2.25;"/>
-			<polygon points="294.1041 72, 292.1797 80.79187, 286.4565 76.74491" style="stroke: rgb(72%,25%,5%); stroke-linecap: butt; stroke-width: 0.5; fill: rgb(72%,25%,5%); fill-rule: evenodd;"/>
+			<path d="M 234,157 L 294.104076,72 Z" style="stroke: rgb(35%,18%,69%); stroke-linecap: butt; stroke-width: 2.25;"/>
+			<polygon points="294.1041 72, 292.1797 80.79187, 286.4565 76.74491" style="stroke: rgb(35%,18%,69%); stroke-linecap: butt; stroke-width: 0.5; fill: rgb(35%,18%,69%); fill-rule: evenodd;"/>
 			<text x="39" y="184" style="font-family: 'Atkinson Hyperlegible Next', sans-serif; font-weight: 400; font-size: 17px;fill: rgb(8%,9%,11%); stroke:none;" transform="translate(0,368) scale(1,-1)">Air</text>
 			<text x="39" y="112" style="font-family: 'Atkinson Hyperlegible Next', sans-serif; font-weight: 400; font-size: 17px;fill: rgb(8%,9%,11%); stroke:none;" transform="translate(0,224) scale(1,-1)">Glass</text>
 			<text x="246" y="234" style="font-family: 'Atkinson Hyperlegible Next', sans-serif; font-weight: 400; font-size: 15px;fill: rgb(41%,44%,50%); stroke:none;" transform="translate(0,468) scale(1,-1)">normal</text>
-			<text x="302" y="89" style="font-family: 'Atkinson Hyperlegible Next', sans-serif; font-weight: 400; font-size: 14px;fill: rgb(72%,25%,5%); stroke:none;" transform="translate(0,178) scale(1,-1)">refracted ray</text>
+			<text x="302" y="89" style="font-family: 'Atkinson Hyperlegible Next', sans-serif; font-weight: 400; font-size: 14px;fill: rgb(35%,18%,69%); stroke:none;" transform="translate(0,178) scale(1,-1)">refracted ray</text>
 			<path d="M 444,73 L 444,243 Z" style="stroke: rgb(89%,90%,92%); stroke-linecap: butt; stroke-width: 1.25;"/>
 			<text x="468" y="220" style="font-family: 'Atkinson Hyperlegible Next', sans-serif; font-weight: 700; font-size: 17px;fill: rgb(8%,9%,11%); stroke:none;" transform="translate(0,440) scale(1,-1)">At the boundary</text>
 			<text x="468" y="183" style="font-family: 'Atkinson Hyperlegible Next', sans-serif; font-weight: 400; font-size: 16px;fill: rgb(8%,9%,11%); stroke:none;" transform="translate(0,366) scale(1,-1)">Frequency: unchanged</text>

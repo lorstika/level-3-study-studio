@@ -11,7 +11,6 @@
 	<g id="group" transform="scale(1,-1) translate(0,-340)" style="clip-path: url(#clip)">
 		<g transform="">
 			<rect x="0" y="0" width="720" height="340" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
-			<text x="24" y="314" style="font-family: 'Atkinson Hyperlegible Next', sans-serif; font-weight: 400; font-size: 14px;fill: rgb(41%,44%,50%); stroke:none;" transform="translate(0,628) scale(1,-1)">FIG. 07 / ENVIRONMENT</text>
 			<text x="24" y="282" style="font-family: 'Atkinson Hyperlegible Next', sans-serif; font-weight: 700; font-size: 21px;fill: rgb(8%,9%,11%); stroke:none;" transform="translate(0,564) scale(1,-1)">Food-chain arrows point from food to consumer</text>
 			<path d="M 24,264 L 696,264 Z" style="stroke: rgb(8%,9%,11%); stroke-linecap: butt; stroke-width: 1.25;"/>
 			<rect x="24.0" y="106" width="148.5" height="128" style="stroke: rgb(8%,9%,11%); stroke-linecap: butt; stroke-width: 1.25; fill: rgb(94%,94%,95%); fill-rule: evenodd;"/>
@@ -39,7 +38,7 @@
 			<text x="559.5" y="183" style="font-family: 'Atkinson Hyperlegible Next', sans-serif; font-weight: 700; font-size: 16px;fill: rgb(8%,9%,11%); stroke:none;" transform="translate(0,366) scale(1,-1)">Higher</text>
 			<text x="559.5" y="162" style="font-family: 'Atkinson Hyperlegible Next', sans-serif; font-weight: 700; font-size: 16px;fill: rgb(8%,9%,11%); stroke:none;" transform="translate(0,324) scale(1,-1)">consumer</text>
 			<text x="559.5" y="133" style="font-family: 'Atkinson Hyperlegible Next', sans-serif; font-weight: 400; font-size: 15px;fill: rgb(8%,9%,11%); stroke:none;" transform="translate(0,266) scale(1,-1)">Snake</text>
-			<text x="24" y="73" style="font-family: 'Atkinson Hyperlegible Next', sans-serif; font-weight: 700; font-size: 17px;fill: rgb(72%,25%,5%); stroke:none;" transform="translate(0,146) scale(1,-1)">Energy transfer</text>
+			<text x="24" y="73" style="font-family: 'Atkinson Hyperlegible Next', sans-serif; font-weight: 700; font-size: 17px;fill: rgb(35%,18%,69%); stroke:none;" transform="translate(0,146) scale(1,-1)">Energy transfer</text>
 			<text x="166" y="73" style="font-family: 'Atkinson Hyperlegible Next', sans-serif; font-weight: 400; font-size: 16px;fill: rgb(8%,9%,11%); stroke:none;" transform="translate(0,146) scale(1,-1)">Some energy disperses as heat at every stage.</text>
 			<path d="M 24,49 L 696,49 Z" style="stroke: rgb(89%,90%,92%); stroke-linecap: butt; stroke-width: 1.25;"/>
 			<text x="24" y="24" style="font-family: 'Atkinson Hyperlegible Next', sans-serif; font-weight: 400; font-size: 15px;fill: rgb(8%,9%,11%); stroke:none;" transform="translate(0,48) scale(1,-1)">Takeaway: nutrients cycle; energy flows through the feeding relationships.</text>

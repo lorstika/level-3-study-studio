@@ -11,7 +11,6 @@
 	<g id="group" transform="scale(1,-1) translate(0,-340)" style="clip-path: url(#clip)">
 		<g transform="">
 			<rect x="0" y="0" width="720" height="340" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
-			<text x="24" y="314" style="font-family: 'Atkinson Hyperlegible Next', sans-serif; font-weight: 400; font-size: 14px;fill: rgb(41%,44%,50%); stroke:none;" transform="translate(0,628) scale(1,-1)">FIG. 05 / LABORATORY</text>
 			<text x="24" y="282" style="font-family: 'Atkinson Hyperlegible Next', sans-serif; font-weight: 700; font-size: 21px;fill: rgb(8%,9%,11%); stroke:none;" transform="translate(0,564) scale(1,-1)">Choose axes that turn the pendulum law into a line</text>
 			<path d="M 24,264 L 696,264 Z" style="stroke: rgb(8%,9%,11%); stroke-linecap: butt; stroke-width: 1.25;"/>
 			<path d="M 151,77 L 151,235 Z" style="stroke: rgb(89%,90%,92%); stroke-linecap: butt; stroke-width: 1.25;"/>
@@ -33,7 +32,7 @@
 			<text x="358.151" y="59" style="font-family: 'Atkinson Hyperlegible Next', sans-serif; font-weight: 400; font-size: 14px;fill: rgb(8%,9%,11%); stroke:none;" transform="translate(0,118) scale(1,-1)">1</text>
 			<text x="60.328" y="144" style="font-family: 'Atkinson Hyperlegible Next', sans-serif; font-weight: 400; font-size: 14px;fill: rgb(8%,9%,11%); stroke:none;" transform="translate(0,288) scale(1,-1)">2</text>
 			<text x="59.403999999999996" y="216" style="font-family: 'Atkinson Hyperlegible Next', sans-serif; font-weight: 400; font-size: 14px;fill: rgb(8%,9%,11%); stroke:none;" transform="translate(0,432) scale(1,-1)">4</text>
-			<path d="M 81,77 L 361,221 Z" style="stroke: rgb(72%,25%,5%); stroke-linecap: butt; stroke-width: 2.25;"/>
+			<path d="M 81,77 L 361,221 Z" style="stroke: rgb(35%,18%,69%); stroke-linecap: butt; stroke-width: 2.25;"/>
 			<circle cx="151.0" cy="113.0" r="3.5" style="stroke: rgb(8%,9%,11%); stroke-linecap: butt; stroke-width: 1.25; fill: rgb(8%,9%,11%); fill-rule: evenodd;"/>
 			<circle cx="221.0" cy="149.0" r="3.5" style="stroke: rgb(8%,9%,11%); stroke-linecap: butt; stroke-width: 1.25; fill: rgb(8%,9%,11%); fill-rule: evenodd;"/>
 			<circle cx="291.0" cy="185.0" r="3.5" style="stroke: rgb(8%,9%,11%); stroke-linecap: butt; stroke-width: 1.25; fill: rgb(8%,9%,11%); fill-rule: evenodd;"/>
@@ -45,7 +44,7 @@
 			<path d="M 444,73 L 444,243 Z" style="stroke: rgb(89%,90%,92%); stroke-linecap: butt; stroke-width: 1.25;"/>
 			<text x="468" y="223" style="font-family: 'Atkinson Hyperlegible Next', sans-serif; font-weight: 400; font-size: 16px;fill: rgb(8%,9%,11%); stroke:none;" transform="translate(0,446) scale(1,-1)">Slope = rise / run</text>
 			<text x="468" y="199" style="font-family: 'Atkinson Hyperlegible Next', sans-serif; font-weight: 400; font-size: 16px;fill: rgb(8%,9%,11%); stroke:none;" transform="translate(0,398) scale(1,-1)">= 2.0 / 0.50 = 4.0 s²/m</text>
-			<text x="468" y="158" style="font-family: 'Atkinson Hyperlegible Next', sans-serif; font-weight: 700; font-size: 17px;fill: rgb(72%,25%,5%); stroke:none;" transform="translate(0,316) scale(1,-1)">g = 4 pi² / slope</text>
+			<text x="468" y="158" style="font-family: 'Atkinson Hyperlegible Next', sans-serif; font-weight: 700; font-size: 17px;fill: rgb(35%,18%,69%); stroke:none;" transform="translate(0,316) scale(1,-1)">g = 4 pi² / slope</text>
 			<text x="468" y="122" style="font-family: 'Atkinson Hyperlegible Next', sans-serif; font-weight: 400; font-size: 16px;fill: rgb(8%,9%,11%); stroke:none;" transform="translate(0,244) scale(1,-1)">Here g is about 9.87 m/s².</text>
 			<text x="468" y="96" style="font-family: 'Atkinson Hyperlegible Next', sans-serif; font-weight: 400; font-size: 16px;fill: rgb(8%,9%,11%); stroke:none;" transform="translate(0,192) scale(1,-1)">Keep the swing angle small.</text>
 			<path d="M 24,49 L 696,49 Z" style="stroke: rgb(89%,90%,92%); stroke-linecap: butt; stroke-width: 1.25;"/>

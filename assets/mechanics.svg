@@ -11,25 +11,24 @@
 	<g id="group" transform="scale(1,-1) translate(0,-340)" style="clip-path: url(#clip)">
 		<g transform="">
 			<rect x="0" y="0" width="720" height="340" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
-			<text x="24" y="314" style="font-family: 'Atkinson Hyperlegible Next', sans-serif; font-weight: 400; font-size: 14px;fill: rgb(41%,44%,50%); stroke:none;" transform="translate(0,628) scale(1,-1)">FIG. 01 / MECHANICS</text>
 			<text x="24" y="282" style="font-family: 'Atkinson Hyperlegible Next', sans-serif; font-weight: 700; font-size: 21px;fill: rgb(8%,9%,11%); stroke:none;" transform="translate(0,564) scale(1,-1)">Add components to find the resultant</text>
 			<path d="M 24,264 L 696,264 Z" style="stroke: rgb(8%,9%,11%); stroke-linecap: butt; stroke-width: 1.25;"/>
 			<path d="M 95,91 L 200,91 Z" style="stroke: rgb(8%,9%,11%); stroke-linecap: butt; stroke-width: 2.25;"/>
 			<polygon points="200 91, 191.7105 94.50477, 191.7105 87.49523" style="stroke: rgb(8%,9%,11%); stroke-linecap: butt; stroke-width: 0.5; fill: rgb(8%,9%,11%); fill-rule: evenodd;"/>
 			<path d="M 200,91 L 200,231 Z" style="stroke: rgb(8%,9%,11%); stroke-linecap: butt; stroke-width: 2.25;"/>
 			<polygon points="200 231, 196.4952 222.7105, 203.5048 222.7105" style="stroke: rgb(8%,9%,11%); stroke-linecap: butt; stroke-width: 0.5; fill: rgb(8%,9%,11%); fill-rule: evenodd;"/>
-			<path d="M 95,91 L 200,231 Z" style="stroke: rgb(72%,25%,5%); stroke-linecap: butt; stroke-width: 2.25;"/>
-			<polygon points="200 231, 192.2225 226.4712, 197.8301 222.2655" style="stroke: rgb(72%,25%,5%); stroke-linecap: butt; stroke-width: 0.5; fill: rgb(72%,25%,5%); fill-rule: evenodd;"/>
+			<path d="M 95,91 L 200,231 Z" style="stroke: rgb(35%,18%,69%); stroke-linecap: butt; stroke-width: 2.25;"/>
+			<polygon points="200 231, 192.2225 226.4712, 197.8301 222.2655" style="stroke: rgb(35%,18%,69%); stroke-linecap: butt; stroke-width: 0.5; fill: rgb(35%,18%,69%); fill-rule: evenodd;"/>
 			<path d="M 188,91 L 188,103 Z" style="stroke: rgb(8%,9%,11%); stroke-linecap: butt; stroke-width: 1.25;"/>
 			<path d="M 188,103 L 200,103 Z" style="stroke: rgb(8%,9%,11%); stroke-linecap: butt; stroke-width: 1.25;"/>
 			<text x="117.488" y="67" style="font-family: 'Atkinson Hyperlegible Next', sans-serif; font-weight: 400; font-size: 16px;fill: rgb(8%,9%,11%); stroke:none;" transform="translate(0,134) scale(1,-1)">3 N east</text>
 			<text x="218" y="157" style="font-family: 'Atkinson Hyperlegible Next', sans-serif; font-weight: 400; font-size: 16px;fill: rgb(8%,9%,11%); stroke:none;" transform="translate(0,314) scale(1,-1)">4 N north</text>
-			<text x="73" y="201" style="font-family: 'Atkinson Hyperlegible Next', sans-serif; font-weight: 700; font-size: 18px;fill: rgb(72%,25%,5%); stroke:none;" transform="translate(0,402) scale(1,-1)">5 N</text>
-			<text x="45" y="178" style="font-family: 'Atkinson Hyperlegible Next', sans-serif; font-weight: 400; font-size: 16px;fill: rgb(72%,25%,5%); stroke:none;" transform="translate(0,356) scale(1,-1)">resultant</text>
+			<text x="73" y="201" style="font-family: 'Atkinson Hyperlegible Next', sans-serif; font-weight: 700; font-size: 18px;fill: rgb(35%,18%,69%); stroke:none;" transform="translate(0,402) scale(1,-1)">5 N</text>
+			<text x="45" y="178" style="font-family: 'Atkinson Hyperlegible Next', sans-serif; font-weight: 400; font-size: 16px;fill: rgb(35%,18%,69%); stroke:none;" transform="translate(0,356) scale(1,-1)">resultant</text>
 			<path d="M 444,73 L 444,243 Z" style="stroke: rgb(89%,90%,92%); stroke-linecap: butt; stroke-width: 1.25;"/>
 			<text x="468" y="220" style="font-family: 'Atkinson Hyperlegible Next', sans-serif; font-weight: 400; font-size: 17px;fill: rgb(8%,9%,11%); stroke:none;" transform="translate(0,440) scale(1,-1)">Horizontal: 3 N</text>
 			<text x="468" y="190" style="font-family: 'Atkinson Hyperlegible Next', sans-serif; font-weight: 400; font-size: 17px;fill: rgb(8%,9%,11%); stroke:none;" transform="translate(0,380) scale(1,-1)">Vertical: 4 N</text>
-			<text x="468" y="141" style="font-family: 'Atkinson Hyperlegible Next', sans-serif; font-weight: 700; font-size: 18px;fill: rgb(72%,25%,5%); stroke:none;" transform="translate(0,282) scale(1,-1)">Magnitude: 5 N</text>
+			<text x="468" y="141" style="font-family: 'Atkinson Hyperlegible Next', sans-serif; font-weight: 700; font-size: 18px;fill: rgb(35%,18%,69%); stroke:none;" transform="translate(0,282) scale(1,-1)">Magnitude: 5 N</text>
 			<text x="468" y="106" style="font-family: 'Atkinson Hyperlegible Next', sans-serif; font-weight: 400; font-size: 16px;fill: rgb(8%,9%,11%); stroke:none;" transform="translate(0,212) scale(1,-1)">Direction: 53.1°</text>
 			<text x="468" y="82" style="font-family: 'Atkinson Hyperlegible Next', sans-serif; font-weight: 400; font-size: 16px;fill: rgb(8%,9%,11%); stroke:none;" transform="translate(0,164) scale(1,-1)">north of east</text>
 			<path d="M 24,49 L 696,49 Z" style="stroke: rgb(89%,90%,92%); stroke-linecap: butt; stroke-width: 1.25;"/>

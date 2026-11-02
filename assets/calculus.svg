@@ -11,7 +11,6 @@
 	<g id="group" transform="scale(1,-1) translate(0,-340)" style="clip-path: url(#clip)">
 		<g transform="">
 			<rect x="0" y="0" width="720" height="340" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
-			<text x="24" y="314" style="font-family: 'Atkinson Hyperlegible Next', sans-serif; font-weight: 400; font-size: 14px;fill: rgb(41%,44%,50%); stroke:none;" transform="translate(0,628) scale(1,-1)">FIG. 04 / CALCULUS</text>
 			<text x="24" y="282" style="font-family: 'Atkinson Hyperlegible Next', sans-serif; font-weight: 700; font-size: 21px;fill: rgb(8%,9%,11%); stroke:none;" transform="translate(0,564) scale(1,-1)">A tangent measures the local rate of change</text>
 			<path d="M 24,264 L 696,264 Z" style="stroke: rgb(8%,9%,11%); stroke-linecap: butt; stroke-width: 1.25;"/>
 			<path d="M 154,76 L 154,243 Z" style="stroke: rgb(89%,90%,92%); stroke-linecap: butt; stroke-width: 1.25;"/>
@@ -37,13 +36,13 @@
 			<text x="48.39" y="167" style="font-family: 'Atkinson Hyperlegible Next', sans-serif; font-weight: 400; font-size: 14px;fill: rgb(8%,9%,11%); stroke:none;" transform="translate(0,334) scale(1,-1)">8</text>
 			<text x="43.629999999999995" y="215" style="font-family: 'Atkinson Hyperlegible Next', sans-serif; font-weight: 400; font-size: 14px;fill: rgb(8%,9%,11%); stroke:none;" transform="translate(0,430) scale(1,-1)">12</text>
 			<polyline points="68 76, 72.3 76.03, 76.6 76.12, 80.9 76.27, 85.2 76.48, 89.5 76.75, 93.8 77.08, 98.1 77.47, 102.4 77.92, 106.7 78.43, 111 79, 115.3 79.63, 119.6 80.32, 123.9 81.07, 128.2 81.88, 132.5 82.75, 136.8 83.68, 141.1 84.67, 145.4 85.72, 149.7 86.83, 154 88, 158.3 89.23, 162.6 90.52, 166.9 91.87, 171.2 93.28, 175.5 94.75, 179.8 96.28, 184.1 97.87, 188.4 99.52, 192.7 101.23, 197 103, 201.3 104.83, 205.6 106.72, 209.9 108.67, 214.2 110.68, 218.5 112.75, 222.8 114.88, 227.1 117.07, 231.4 119.32, 235.7 121.63, 240 124, 244.3 126.43, 248.6 128.92, 252.9 131.47, 257.2 134.08, 261.5 136.75, 265.8 139.48, 270.1 142.27, 274.4 145.12, 278.7 148.03, 283 151, 287.3 154.03, 291.6 157.12, 295.9 160.27, 300.2 163.48, 304.5 166.75, 308.8 170.08, 313.1 173.47, 317.4 176.92, 321.7 180.43, 326 184, 330.3 187.63, 334.6 191.32, 338.9 195.07, 343.2 198.88, 347.5 202.75, 351.8 206.68, 356.1 210.67, 360.4 214.72, 364.7 218.83, 369 223, 373.3 227.23, 377.6 231.52, 381.9 235.87" style="stroke: rgb(8%,9%,11%); stroke-linecap: butt; stroke-width: 2.25; fill: None; fill-rule: evenodd;"/>
-			<path d="M 162.6,80.8 L 360.4,191.2 Z" style="stroke: rgb(72%,25%,5%); stroke-linecap: butt; stroke-width: 2.25;"/>
-			<circle cx="240" cy="124" r="3.5" style="stroke: rgb(72%,25%,5%); stroke-linecap: butt; stroke-width: 1.25; fill: rgb(72%,25%,5%); fill-rule: evenodd;"/>
+			<path d="M 162.6,80.8 L 360.4,191.2 Z" style="stroke: rgb(35%,18%,69%); stroke-linecap: butt; stroke-width: 2.25;"/>
+			<circle cx="240" cy="124" r="3.5" style="stroke: rgb(35%,18%,69%); stroke-linecap: butt; stroke-width: 1.25; fill: rgb(35%,18%,69%); fill-rule: evenodd;"/>
 			<text x="289" y="231" style="font-family: 'Atkinson Hyperlegible Next', sans-serif; font-weight: 400; font-size: 16px;fill: rgb(8%,9%,11%); stroke:none;" transform="translate(0,462) scale(1,-1)">y = x²</text>
 			<text x="250" y="103" style="font-family: 'Atkinson Hyperlegible Next', sans-serif; font-weight: 400; font-size: 15px;fill: rgb(8%,9%,11%); stroke:none;" transform="translate(0,206) scale(1,-1)">(2, 4)</text>
 			<path d="M 444,73 L 444,243 Z" style="stroke: rgb(89%,90%,92%); stroke-linecap: butt; stroke-width: 1.25;"/>
 			<text x="468" y="216" style="font-family: 'Atkinson Hyperlegible Next', sans-serif; font-weight: 700; font-size: 17px;fill: rgb(8%,9%,11%); stroke:none;" transform="translate(0,432) scale(1,-1)">At x = 2</text>
-			<text x="468" y="176" style="font-family: 'Atkinson Hyperlegible Next', sans-serif; font-weight: 700; font-size: 18px;fill: rgb(72%,25%,5%); stroke:none;" transform="translate(0,352) scale(1,-1)">Slope = 2x = 4</text>
+			<text x="468" y="176" style="font-family: 'Atkinson Hyperlegible Next', sans-serif; font-weight: 700; font-size: 18px;fill: rgb(35%,18%,69%); stroke:none;" transform="translate(0,352) scale(1,-1)">Slope = 2x = 4</text>
 			<text x="468" y="135" style="font-family: 'Atkinson Hyperlegible Next', sans-serif; font-weight: 400; font-size: 16px;fill: rgb(8%,9%,11%); stroke:none;" transform="translate(0,270) scale(1,-1)">Tangent equation:</text>
 			<text x="468" y="111" style="font-family: 'Atkinson Hyperlegible Next', sans-serif; font-weight: 400; font-size: 16px;fill: rgb(8%,9%,11%); stroke:none;" transform="translate(0,222) scale(1,-1)">y - 4 = 4(x - 2)</text>
 			<path d="M 24,49 L 696,49 Z" style="stroke: rgb(89%,90%,92%); stroke-linecap: butt; stroke-width: 1.25;"/>
